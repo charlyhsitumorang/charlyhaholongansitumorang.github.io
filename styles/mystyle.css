@@ -1,0 +1,121 @@
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+        margin-bottom: 0;
+        border-radius: 0;
+      }
+      
+      /* Add a gray background color and some padding to the footer */
+      footer {
+        background-color: #474b4f;
+        padding: 25px;
+        color: #ffffff;
+      }
+.backgroundme{
+    background-color: #cbced3;
+}
+.background{
+    background-image: url("../images/profile.png");
+    background-size: cover;
+    background-position-x: 350px;
+}
+
+      /* csss */
+      /* main content */
+.main{
+    width: 100%;
+    font-family: sans-serif;
+    margin: 10px;
+    text-align: justify;
+    padding-top: 40px;
+    
+}
+
+.profile{
+    box-shadow: 1px 10px 20px #888888;
+    border-style: none;
+    max-width: 300px;
+    background: black;
+    opacity: 0.8;
+    margin: auto;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+.myprofile{
+    width: 50%;
+    height: 70%;    
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+}
+.mydes{
+    background-color: white;
+    padding: 10px;
+}
+.mydes h1{
+    text-align: center;
+
+}
+.mydes p{
+    padding: 10px;
+}
+.campus{
+    font-size: 12pt;
+    text-align: center;
+}
+
+/* sosial media */
+.sosmed ul li a{
+    list-style-type: none;
+}
+.github{
+    float: left;
+    padding: 2px;
+}
+.linkedin{
+    float: left;
+    padding: 2px;
+}
+.instagram{
+    float: left;
+    padding: 2px;
+}
+.facebook{
+    padding-bottom: 10px;
+}
+
+/* my footer */
+.retangle{
+    text-align: center;
+    background-color: black;
+    color: white;   
+}
+.retangle p a{
+    text-decoration: none;
+    color: white;
+}
+.retangle p a:hover{
+    font-size: 20px;
+}
+
+.maps{
+    padding: 5px 40px;
+}
+/* Curiculum vitae */
+.profile-foto{
+    background-color: #00aeef;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box2{
+    text-align: center;
+    height: 20%;
+    width: 100%;
+    background-color: #363636;
+}
+.profile-lengkap{
+    padding-top: 0px;
+    width: 50%;
+    float: right;
+}
